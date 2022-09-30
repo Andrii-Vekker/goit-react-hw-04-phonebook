@@ -5,7 +5,6 @@ import { BtnAdd } from "components/Form/Form.styled";
 
 
 export default function ContactsList({ contacts, removeContacts }) {
-    
 
     return (
         <>
